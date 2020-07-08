@@ -1,0 +1,11 @@
+02:26:53.687 [TestNG-tests-1] INFO  framework.HomePage - Homepage successfully loaded
+02:26:53.842 [TestNG-tests-1] DEBUG framework.HomePage - One Way radio button selected
+02:26:54.171 [TestNG-tests-1] DEBUG framework.HomePage - Departure City Delhi Selected
+02:26:54.421 [TestNG-tests-1] DEBUG framework.HomePage - Destination City Bengaluru Selected
+02:26:54.573 [TestNG-tests-1] DEBUG framework.HomePage - Departure Date Selected
+02:26:54.855 [TestNG-tests-1] DEBUG framework.HomePage - Passengers box clocked
+02:26:55.052 [TestNG-tests-1] DEBUG framework.HomePage - 3 Adults Selected
+02:26:55.230 [TestNG-tests-1] DEBUG framework.HomePage - 1 Child Selected
+02:26:55.395 [TestNG-tests-1] DEBUG framework.HomePage - 2 Infants Selected
+02:26:55.553 [TestNG-tests-1] DEBUG framework.HomePage - USD currency selected
+02:27:05.614 [TestNG-tests-1] DEBUG framework.HomePage - Clicked on search button

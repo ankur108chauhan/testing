@@ -1,0 +1,4 @@
+framework\HomePageObjects.class
+framework\SignUpPageObjects.class
+framework\Base.class
+framework\LoginObjects.class

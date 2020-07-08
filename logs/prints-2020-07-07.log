@@ -1,0 +1,61 @@
+
+02:23:59.708 [TestNG-tests-1] INFO  framework.Signup - Signup page successfully loaded
+02:24:00.060 [TestNG-tests-1] DEBUG framework.Signup - Title selected successfully
+02:24:00.294 [TestNG-tests-1] DEBUG framework.Signup - Ankur added successfully
+02:24:00.479 [TestNG-tests-1] DEBUG framework.Signup - Chauhan added successfully
+02:24:00.690 [TestNG-tests-1] DEBUG framework.Signup - 9455785685 added successfully
+02:24:00.951 [TestNG-tests-1] DEBUG framework.Signup - @Qwerty123456 added successfully
+02:24:01.181 [TestNG-tests-1] DEBUG framework.Signup - @Qwerty123456 added successfully
+02:24:01.302 [TestNG-tests-1] DEBUG framework.Signup - Datepicker box clicked
+02:24:01.408 [TestNG-tests-1] DEBUG framework.Signup - Previous year button clicked
+02:24:01.481 [TestNG-tests-1] DEBUG framework.Signup - Birth year selected
+02:24:01.571 [TestNG-tests-1] DEBUG framework.Signup - Birth month selected
+02:24:01.666 [TestNG-tests-1] DEBUG framework.Signup - Birth date selected
+02:24:01.943 [TestNG-tests-1] DEBUG framework.Signup - ankur@gmail.com added successfully
+02:24:02.042 [TestNG-tests-1] DEBUG framework.Signup - Terms Selected Successfully
+02:24:02.168 [TestNG-tests-1] DEBUG framework.Signup - Title selected successfully
+02:24:02.301 [TestNG-tests-1] DEBUG framework.Signup - Aman added successfully
+02:24:02.456 [TestNG-tests-1] DEBUG framework.Signup - Sharma added successfully
+02:24:02.623 [TestNG-tests-1] DEBUG framework.Signup - 9654585658 added successfully
+02:24:02.886 [TestNG-tests-1] DEBUG framework.Signup - @Aman123456 added successfully
+02:24:03.486 [TestNG-tests-1] DEBUG framework.Signup - @Aman123456 added successfully
+02:24:04.916 [TestNG-tests-1] INFO  framework.Base - Successfully took a screenshot
+02:25:47.731 [TestNG-tests-1] INFO  framework.Signup - Signup page successfully loaded
+02:25:48.327 [TestNG-tests-1] DEBUG framework.Signup - Title selected successfully
+02:25:48.539 [TestNG-tests-1] DEBUG framework.Signup - Ankur added successfully
+02:25:48.721 [TestNG-tests-1] DEBUG framework.Signup - Chauhan added successfully
+02:25:48.941 [TestNG-tests-1] DEBUG framework.Signup - 9455785685 added successfully
+02:25:49.209 [TestNG-tests-1] DEBUG framework.Signup - @Qwerty123456 added successfully
+02:25:49.424 [TestNG-tests-1] DEBUG framework.Signup - @Qwerty123456 added successfully
+02:25:49.569 [TestNG-tests-1] DEBUG framework.Signup - Datepicker box clicked
+02:25:49.654 [TestNG-tests-1] DEBUG framework.Signup - Previous year button clicked
+02:25:49.743 [TestNG-tests-1] DEBUG framework.Signup - Birth year selected
+02:25:49.824 [TestNG-tests-1] DEBUG framework.Signup - Birth month selected
+02:25:49.927 [TestNG-tests-1] DEBUG framework.Signup - Birth date selected
+02:25:50.214 [TestNG-tests-1] DEBUG framework.Signup - ankur@gmail.com added successfully
+02:25:50.302 [TestNG-tests-1] DEBUG framework.Signup - Terms Selected Successfully
+02:25:55.520 [TestNG-tests-1] DEBUG framework.Signup - Submit button clicked successfully
+02:26:44.315 [TestNG-tests-4] INFO  framework.ValidateText - Homepage successfully loaded
+02:26:44.341 [TestNG-tests-3] INFO  framework.Signup - Signup page successfully loaded
+02:26:44.505 [TestNG-tests-2] INFO  framework.Login - Login page successfully loaded
+02:26:44.975 [TestNG-tests-3] DEBUG framework.Signup - Title selected successfully
+02:26:45.584 [TestNG-tests-4] INFO  framework.Base - Successfully took a screenshot
+02:26:45.632 [TestNG-tests-3] DEBUG framework.Signup - Ankur added successfully
+02:26:46.015 [TestNG-tests-2] DEBUG framework.Login - Successfully added email
+02:26:46.159 [TestNG-tests-3] DEBUG framework.Signup - Chauhan added successfully
+02:26:46.319 [TestNG-tests-2] DEBUG framework.Login - Successfully added password
+02:26:46.525 [TestNG-tests-2] DEBUG framework.Login - Clicked on login
+02:26:46.559 [TestNG-tests-3] DEBUG framework.Signup - 9455785685 added successfully
+02:26:46.960 [TestNG-tests-2] DEBUG framework.Login - Successfully added email
+02:26:47.061 [TestNG-tests-3] DEBUG framework.Signup - @Qwerty123456 added successfully
+02:26:47.196 [TestNG-tests-2] DEBUG framework.Login - Successfully added password
+02:26:47.329 [TestNG-tests-2] DEBUG framework.Login - Clicked on login
+02:26:47.531 [TestNG-tests-3] DEBUG framework.Signup - @Qwerty123456 added successfully
+02:26:47.741 [TestNG-tests-3] DEBUG framework.Signup - Datepicker box clicked
+02:26:47.870 [TestNG-tests-3] DEBUG framework.Signup - Previous year button clicked
+02:26:48.012 [TestNG-tests-3] DEBUG framework.Signup - Birth year selected
+02:26:48.147 [TestNG-tests-3] DEBUG framework.Signup - Birth month selected
+02:26:48.298 [TestNG-tests-3] DEBUG framework.Signup - Birth date selected
+02:26:48.612 [TestNG-tests-3] DEBUG framework.Signup - ankur@gmail.com added successfully
+02:26:48.723 [TestNG-tests-3] DEBUG framework.Signup - Terms Selected Successfully
+02:26:52.912 [TestNG-tests-3] DEBUG framework.Signup - Submit button clicked successfully
